@@ -1,0 +1,25 @@
+ /* Set background image for the whole body */
+ body {
+    background-image: url('b21.jpg'); /* Path to your image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+    color: white; /* Optional: Set text color to contrast with the background */
+}
+
+/* Style for content to be clearly visible */
+.content {
+     /* Semi-transparent background */
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+}
+#Email{
+color: white;
+}
+h1{
+color: rgb(9, 190, 250);
+}
+
+
